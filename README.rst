@@ -11,6 +11,11 @@ Features
 - *TODO* Fully Documented
 - *TODO* 100% Test Coverage
 - *TODO* One-Click Executables for Windows, Mac OS X, and Linux
+- *TODO* Graphical User Interface for ``pip``
+- *TODO* Package Installs, Updates, Uninstalls
+- *TODO* ``venv``'s for Installed Packages
+- *TODO* Crash Reports
+- *TODO* Startup Utilities: Windows Start Menu, Mac OS X Applications Folder
 - Developed on Python 3.7
 - Tested on CPython 2.7, 3.5, 3.6, and 3.7
 - Tested on Linux, Mac OS X, and Windows
