@@ -8,16 +8,13 @@ Features
 --------
 
 - Pure-Python
+- *TODO* Fully Documented
+- *TODO* 100% Test Coverage
+- *TODO* One-Click Executables for Windows, Mac OS X, and Linux
 - Developed on Python 3.7
 - Tested on CPython 2.7, 3.5, 3.6, and 3.7
 - Tested on Linux, Mac OS X, and Windows
 - Tested using Travis CI and AppVeyor CI
-
-.. todo::
-
-   - Fully Documented
-   - 100% Test Coverage
-   - One-Click Executables for Windows, Mac OS X, and Linux
 
 .. image:: https://api.travis-ci.org/grantjenks/python-appstore.svg?branch=master
     :target: http://www.grantjenks.com/docs/appstore/
