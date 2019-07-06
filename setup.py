@@ -33,7 +33,7 @@ setup(
     cmdclass={'test': Tox},
     install_requires=[],
     classifiers=(
-        'Development Status :: 5 - Production/Stable',
+        'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: Apache Software License',
         'Natural Language :: English',
